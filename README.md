@@ -1,50 +1,57 @@
 [Queries](https://console.cloud.google.com/bigquery?sq=149236772561:fe43ee74db3a44908c4b8991251e9299)
 
 
-__Summary of Analysis__
 
-##### Order Trends:
-The number of orders has shown a significant increase over time, with a consistent high volume since the beginning of 2018.
+# Objectives of Analysis:
 
-##### Seasonal Trends:
-There is a noticeable monthly seasonality, with lower order counts observed between September and December.
+#### Order Trends:
+Assess the overall trend in the number of orders over time.
 
-##### Order Placement Time:
-Most Brazilian customers prefer placing orders during the afternoon, although there are also significant sales during mornings and nights.
+#### Seasonal Trends:
+Identify and understand any monthly seasonality patterns in order placements.
 
-##### Regional Analysis:
-São Paulo (SP) has experienced a significant increase in the number of orders, followed by Rio de Janeiro (RJ) and Minas Gerais (MG).
-São Paulo (SP) has the highest number of customers.
+#### Order Placement Time:
+Determine the preferred time of day for Brazilian customers to place orders.
 
-##### Cost Analysis:
-São Paulo (SP) has the highest total order price, but the average order price is highest for Paraíba (PB).
+#### Regional Analysis:
+Analyze order distribution across different states and identify regions with significant growth.
 
-##### Freight Analysis:
-Roraima (RR) has the highest average freight value, while São Paulo (SP) has the lowest.
+#### Cost Analysis:
+Examine total and average order prices to understand cost dynamics in different states.
 
-##### Delivery Time:
-São Paulo (SP) experiences the quickest delivery times, while Roraima (RR) has the slowest.
+#### Freight Analysis:
+Investigate freight costs across states to identify regional variations.
 
-##### On-Time Delivery:
-Approximately 93.2% of orders are either delivered early or on time.
+#### Delivery Time:
+Evaluate delivery times to understand efficiency across different regions.
 
-##### Payment Methods:
-Credit cards are the most preferred payment method for customers.
+#### On-Time Delivery:
+ Assess the percentage of orders delivered on time or early.
+ 
+#### Payment Methods:
+Identify the preferred payment methods among customers.
 
-##### EMI Payments:
-Most orders are either not on EMI or have only the first installment paid.
+#### EMI Payments:
+: Analyze the prevalence of orders with EMI payments.
 
-##### Sales Performance:
-The company's sales increased, with a few months showing a decrease compared to the previous month.
+#### Sales Performance:
+: Examine overall sales performance and identify trends.
 
-##### Fastest Delivery States:
-São Paulo (SP) receives the fastest deliveries compared to the estimated delivery date.
+#### Fastest Delivery States:
+: Determine states with the fastest order deliveries compared to estimated dates.
 
-##### Payment Type Analysis:
-Credit cards consistently dominate as the most used payment method for each month.
+#### Payment Type Analysis:
+: Understand the distribution of payment types over different months.
 
-##### Prediction Accuracy:
-The prediction algorithm for delivery dates shows room for improvement, with an average difference of 7.95 days.
+#### Prediction Accuracy:
+Evaluate the accuracy of the prediction algorithm for delivery dates.
 
 
-These insights provide a comprehensive overview of OList's operations in Brazil, covering aspects such as customer behavior, regional variations, payment preferences, and delivery efficiency. The analysis can guide strategic decisions to enhance customer satisfaction and optimize business processes.
+# Summary of Analysis:
+
+The analysis revealed a positive trend in order volume, with consistent growth since 2018. Monthly seasonality patterns were observed, and Brazilian customers showed a preference for afternoon order placements. São Paulo exhibited significant growth in orders and customers, leading the regional analysis. Cost and freight analyses highlighted variations across states, with São Paulo having the highest total order price and Paraíba leading in average order price. Delivery efficiency varied, with São Paulo experiencing the quickest delivery times.
+
+The majority of orders were delivered on time or early, reflecting strong operational performance. Credit cards were the most preferred payment method, and EMI payments were not prevalent. Overall sales increased, with occasional monthly fluctuations. São Paulo stood out as the state with the fastest deliveries, emphasizing its efficient logistics. The analysis identified areas for improvement, such as enhancing prediction accuracy for delivery dates.
+
+In conclusion, these insights provide a holistic understanding of OList's operations in Brazil, offering valuable guidance for strategic decision-making to optimize customer satisfaction, logistics, and overall business performance.
+
