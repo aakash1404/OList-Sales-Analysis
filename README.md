@@ -4,46 +4,46 @@
 
 # Objectives of Analysis:
 
-#### Order Trends:
+### Order Trends:
 Assess the overall trend in the number of orders over time.
 
-#### Seasonal Trends:
+### Seasonal Trends:
 Identify and understand any monthly seasonality patterns in order placements.
 
-#### Order Placement Time:
+### Order Placement Time:
 Determine the preferred time of day for Brazilian customers to place orders.
 
-#### Regional Analysis:
+### Regional Analysis:
 Analyze order distribution across different states and identify regions with significant growth.
 
-#### Cost Analysis:
+### Cost Analysis:
 Examine total and average order prices to understand cost dynamics in different states.
 
-#### Freight Analysis:
+### Freight Analysis:
 Investigate freight costs across states to identify regional variations.
 
-#### Delivery Time:
+### Delivery Time:
 Evaluate delivery times to understand efficiency across different regions.
 
-#### On-Time Delivery:
+### On-Time Delivery:
  Assess the percentage of orders delivered on time or early.
  
-#### Payment Methods:
+### Payment Methods:
 Identify the preferred payment methods among customers.
 
-#### EMI Payments:
+### EMI Payments:
 : Analyze the prevalence of orders with EMI payments.
 
-#### Sales Performance:
+### Sales Performance:
 : Examine overall sales performance and identify trends.
 
-#### Fastest Delivery States:
+### Fastest Delivery States:
 : Determine states with the fastest order deliveries compared to estimated dates.
 
-#### Payment Type Analysis:
+### Payment Type Analysis:
 : Understand the distribution of payment types over different months.
 
-#### Prediction Accuracy:
+### Prediction Accuracy:
 Evaluate the accuracy of the prediction algorithm for delivery dates.
 
 
