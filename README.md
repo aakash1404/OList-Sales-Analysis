@@ -39,9 +39,6 @@ Identify the preferred payment methods among customers.
 ### Payment Type Analysis:
 : Understand the distribution of payment types over different months.
 
-### Prediction Accuracy:
-Evaluate the accuracy of the prediction algorithm for delivery dates.
-
 
 # Summary of Analysis:
 
